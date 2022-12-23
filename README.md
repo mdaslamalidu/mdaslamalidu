@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQHi24DfMUH53w/profile-displaybackgroundimage-shrink_350_1400/0/1662491333384?e=1671062400&v=beta&t=7hTgg3xngkVYNdCyjcTTf8rEbAOxx8ItIcYin6ltyDU)
+![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/mdaslamalidu/overlay/background-image/)
 
 <h1 align="center">Hi 👋, I'm Md Aslam Ali</h1>
 <h3 align="center">I am a MERN STACK DEVELOPER</h3>
