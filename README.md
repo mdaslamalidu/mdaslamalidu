@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/mdaslamalidu/overlay/background-image/)
+https://www.linkedin.com/in/mdaslamalidu/overlay/background-image/
 
 <h1 align="center">Hi 👋, I'm Md Aslam Ali</h1>
 <h3 align="center">I am a MERN STACK DEVELOPER</h3>
